@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: watkins.883@buckeyemail.osu.edu
+  phone: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 1885 Neil Ave
+    city: Columbus
+    region: OH
+    postcode: '43210'
     country: United States
     country_code: US
   coordinates:
