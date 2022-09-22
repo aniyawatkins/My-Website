@@ -66,8 +66,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Aniya Watkins, a Sociology PhD student at Ohio State University from Baltimore, MD. My research interests are in cultural sociology, race and ethnic relations, applied sociology, and public policy. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My past research includes Black women's conceptualizations & perceptions of Black hair, the impact of COVID on Education, and First-generation college students. I also worked in Maryland's General Assembly during the 2022 legislative session as a committe analyst.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
